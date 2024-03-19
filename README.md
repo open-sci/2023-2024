@@ -22,12 +22,16 @@ This space contains all the material related to the [Open Science course](https:
    * Practical part (Project Presentation): [slide](https://docs.google.com/presentation/d/18K2i4kCszGnXIkMf4xtaXw5ObEL4WerSX2Sja0upRzY/edit?usp=sharing)
    * Bibliography
      * Bahlai, C., Bartlett, L., Burgio, K., Fournier, A., Keiser, C., Poisot, T., & Whitney, K. (2019). Open Science Isn’t Always Open to All Scientists. American Scientist, 107(2), 78. https://doi.org/10.1511/2019.107.2.78
+     * Daquino, M., Peroni, S., Shotton, D., Colavizza, G., Ghavimi, B., Lauscher, A., Mayr, P., Romanello, M., & Zumstein, P. (2020). The OpenCitations Data Model. The Semantic Web – ISWC 2020, 12507, 447–463. https://doi.org/10.1007/978-3-030-62466-8_28
      * Fecher, B., & Friesike, S. (2014). Open Science: One Term, Five Schools of Thought. In S. Bartling & S. Friesike (Eds.), Opening Science (pp. 17–47). Springer International Publishing. https://doi.org/10.1007/978-3-319-00026-8_2
-     * Heibi, I., Peroni, S., & Shotton, D. (2019). Software review: COCI, the OpenCitations Index of Crossref open DOI-to-DOI citations. Scientometrics, 121(2), 1213–1228. https://doi.org/10.1007/s11192-019-03217-6
+     * Gomes, D. G. E., Pottier, P., Crystal-Ornelas, R., Hudgins, E. J., Foroughirad, V., Sánchez-Reyes, L. L., Turba, R., Martinez, P. A., Moreau, D., Bertram, M. G., Smout, C. A., & Gaynor, K. M. (2022). Why don’t we share data and code? Perceived barriers and benefits to public archiving practices. Proceedings of the Royal Society B: Biological Sciences, 289(1987), 20221113. https://doi.org/10.1098/rspb.2022.1113
+     * Hendricks, G., Tkaczyk, D., Lin, J., & Feeney, P. (2020). Crossref: The sustainable source of community-owned scholarly metadata. Quantitative Science Studies, 1(1), 414–427. https://doi.org/10.1162/qss_a_00022
      * Imming, M., & Tennant, J. (2018). Sticker open science: Just science done right. https://doi.org/10.5281/ZENODO.1285575
      * International DOI Foundation. (2019). DOI® Handbook. https://doi.org/10.1000/182
      * Kramer, B., & Bosman, J. (2015, June 18). The good, the efficient and the open—Changing research workflows and the need to move from Open Access to Open Science. CERN Workshop on Innovations in Scholarly Communication (OAI9), University of Geneva, Geneva, Switzerland. https://www.slideshare.net/bmkramer/the-good-the-efficient-and-the-open-oai9
+     * Massari, A., Mariani, F., Heibi, I., Peroni, S., & Shotton, D. (2024). OpenCitations Meta. Quantitative Science Studies. https://doi.org/10.1162/qss_a_00292
      * Peroni, S., & Shotton, D. (2018). Open Citation: Definition. Figshare. https://doi.org/10.6084/m9.figshare.6683855
+     * Persiani, S., Daquino, M., & Peroni, S. (2022). A Programming Interface for Creating Data According to the SPAR Ontologies and the OpenCitations Data Model. In P. Groth, M.-E. Vidal, F. Suchanek, P. Szekley, P. Kapanipathi, C. Pesquita, H. Skaf-Molli, & M. Tamper (Eds.), The Semantic Web (Vol. 13261, pp. 305–322). Springer. https://doi.org/10.1007/978-3-031-06981-9_18
      * Reproducibility. (2021). In English Wikipedia. https://en.wikipedia.org/wiki/Reproducibility
      * UNESCO. (2021). UNESCO Recommendation on Open Science (Programme and Meeting Document SC-PCB-SPP/2021/OS/UROS; p. 36). https://unesdoc.unesco.org/ark:/48223/pf0000379949
      * Woelfle, M., Olliaro, P., & Todd, M. H. (2011). Open science is a research accelerator. Nature Chemistry, 3(10), 745–748. https://doi.org/10.1038/nchem.1149
@@ -221,5 +225,5 @@ Video presentations about Open Science stuff:
   <tr><td>17/04/24</td><td>12:00-15:00</td><td>Open Access</td></tr>
   <tr><td>19/04/24</td><td>12:00-15:00</td><td>Open Metrics</td></tr>
   <tr><td>24/04/24</td><td>12:00-15:00</td><td>Open Infrastructures</td></tr>
-  <tr><td>04/05/24</td><td>12:00-15:00</td><td>Final seminar</td></tr>
+  <tr><td>08/05/24</td><td>12:00-15:00</td><td>Final seminar</td></tr>
 </table>
