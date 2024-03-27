@@ -1,4 +1,6 @@
 # Abstract
-TODO
 
-BIEN #eri
+This project aims to investigates the discoverability of University of Bologna's scholarly output within OpenCitations Meta, a platform that stores and delivers bibliographic metadata for alle the publications involved in OpenCitations Index which contains recording citations allowing the user to visualize all of the citation links between a document and another.
+Specifically, this project aims to analyze the coverage of University of Bologna's publications within the OpenCitations Meta, particularly those deposited in the IRIS institutional repository. Various publication types are observed to discern patterns in representation. 
+Utilizing OpenCitations data, the citation impact of these IRIS publications is quantified, encompassing both the citations they receive and those they provide. Additionally, the study delves into the nature of citations, distinguishing between those involving publications within IRIS and those referencing external sources. The study unveils the citation impact of IRIS publications, clarifying their influence within the scholarly community. By dissecting citations, the research also delineates the interplay between internal and external citations, providing a deeper understanding of the institution's scholarly ecosystem.
+The methodology used will be all compliant to the core values of Open Science, the data and the software used will all be made available to allow the user to replicate, reproduce and validate the conclusions drawn by the end results of the project, that will hold significance for researchers and academic institutions, facilitating informed decision-making and fostering a deeper understanding of scholarly communication dynamics.
