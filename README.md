@@ -204,8 +204,12 @@ This space contains all the material related to the [Open Science course](https:
    <hr></hr>
 
 10. [08/05/24] Final seminar 
+    * Title: Open science: in dialogue with society
+    * Abstract: We shall explore the two-way connection among science and society - as Open Science is not just "sharing" at the end of the process, it's a different way of creating knowledge starting from the beginning, and possibly co-creating it. After discussing the potentiality of citizen science, we shall delve into the realm of science communication with a focus on science for policy, for a truly evidence-informed policy making.
+    * Speaker: Elena Giglia, PhD, Masters' Degree in Librarianship and Masters' Degree in Public Institutions Management, is Head of the Open Science Unit at the University of Turin. She has been part of the European Open Science network for many years, attending national and international conferences, and writing and lecturing on Open Access and Open Science. She was a member (2019-2020) of the Committee on Open Science at the Ministry for University and Research (MUR). She actively collaborates with the ICDI – Italian Computer and Data Infrastructure Competence center on Open Science, EOSC and FAIR data and with several national and international projects. She is a member of the EOSC Association Task Force Researchers Engagement and Adoption, where she represents the Research infrastructure OPERAS for Open Science in the Social Sciences and the Humanities. She serves in several Scientific Committees and Advisory Boards.
     <hr></hr>
 
+11. [27 May 2024, 10:00-13:00] Workshop
 
 ### Extras
 
