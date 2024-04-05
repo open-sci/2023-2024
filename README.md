@@ -101,9 +101,10 @@ This space contains all the material related to the [Open Science course](https:
    * Theoretical part: [slide](https://docs.google.com/presentation/d/1OMjcBQrVshMZNDK2H0pb5qXuxvz-d5UyMEIOm8-Dh3Y/edit?usp=sharing)
    * Practical part: [slide](https://docs.google.com/presentation/d/1Y6CdDwgcuQpRJBDbSDDbDBXULCWljCGSnsgn_FU0hPs/edit?usp=sharing)
    * Bibliography
+     * Coalition for Advancing Research Assessment. (2022). Agreement on Reforming Research Assessment [Policy]. European Science Foundation. https://coara.eu/agreement/the-agreement-full-text/
      * Economic and Social Research Council, UKRI. (2019). Data management plan: Guidance for peer reviewers. https://esrc.ukri.org/files/about-us/policies-and-standards/data-management-plan-guidance-for-per-reviewers/
      * Eve, M. P., Neylon, C., O’Donnell, D. P., Moore, S., Gadie, R., Odeniyi, V., & Parvin, S. (2020). Reading Peer Review (1st ed.). Cambridge University Press. https://doi.org/10.1017/9781108783521
-     * Gangemi, A., Peroni, S., Shotton, D. M., & Vitali, F. (2017). The Publishing Workflow Ontology (PWO). Semantic Web, 8(5), 703–718. https://doi.org/10.3233/SW-160230
+     * Gangemi, A., Peroni, S., Shotton, D. M., & Vitali, F. (2017). The Publishing Workflow Ontology (PWO). Semantic Web, 8(5), 703–718. https://doi.org/10.3233/SW-160230, available in OA at http://www.semantic-web-journal.net/system/files/swj1301.pdf 
      * Janowicz, K., & Hitzler, P. (2012). Open and transparent: The review process of the Semantic Web journal. Learned Publishing, 25(1), 48–55. https://doi.org/10.1087/20120107
      * Kramer, B., & Bosman, J. (2015, June 18). The good, the efficient and the open—Changing research workflows and the need to move from Open Access to Open Science. CERN Workshop on Innovations in Scholarly Communication (OAI9), University of Geneva, Geneva, Switzerland. https://www.slideshare.net/bmkramer/the-good-the-efficient-and-the-open-oai9
      * McPeek, M. A., DeAngelis, D. L., Shaw, R. G., Moore, A. J., Rausher, M. D., Strong, D. R., Ellison, A. M., Barrett, L., Rieseberg, L., Breed, M. D., Sullivan, J., Osenberg, C. W., Holyoak, M., & Elgar, M. A. (2009). The Golden Rule of Reviewing. The American Naturalist, 173(5), E155–E158. https://doi.org/10.1086/598847
@@ -112,7 +113,10 @@ This space contains all the material related to the [Open Science course](https:
      * Snodgrass, R. T. (2007). Editorial: Single- versus double-blind reviewing. ACM Transactions on Database Systems, 32(1), 1. https://doi.org/10.1145/1206049.1206050
      * Stiller-Reeve, M. (2018). How to write a thorough peer review. Nature. https://doi.org/10.1038/d41586-018-06991-0
      * Tennant, J. P. (2018). The state of the art in peer review. FEMS Microbiology Letters, 365(19). https://doi.org/10.1093/femsle/fny204
+     * Tennant, J. P., Crane, H., Crick, et al. (2019). Ten Hot Topics around Scholarly Publishing. Publications, 7(2), 34. https://doi.org/10.3390/publications7020034 
      * Tennant, J. P., Dugan, J. M., Graziotin, D., Jacques, D. C., Waldner, F., Mietchen, D., Elkhatib, Y., B. Collister, L., Pikas, C. K., Crick, T., Masuzzo, P., Caravaggi, A., Berg, D. R., Niemeyer, K. E., Ross-Hellauer, T., Mannheimer, S., Rigling, L., Katz, D. S., Greshake Tzovaras, B., … Colomb, J. (2017). A multi-disciplinary perspective on emergent and future innovations in peer review. F1000Research, 6, 1151. https://doi.org/10.12688/f1000research.12037.3
+     * UNESCO. (2021). UNESCO Recommendation on Open Science (Programme and Meeting Document SC-PCB-SPP/2021/OS/UROS; p. 36). https://unesdoc.unesco.org/ark:/48223/pf0000379949
+     * Waltman, L., & Polka, J. (2022, July 7). Making sense of preprints by adding context – The Publish Your Reviews initiative [Blog]. LSE Impact Blog. https://blogs.lse.ac.uk/impactofsocialsciences/2022/07/07/making-sense-of-preprints-by-adding-context-the-publish-your-reviews-initiative/
      * Waltman, L., Larivière, V., & Milojević, S. (2022, March 17). Quantitative Science Studies successfully completes transparent peer review pilot [Blog]. ISSI Blog. https://www.issi-society.org/blog/posts/2022/march/quantitative-science-studies-successfully-completes-transparent-peer-review-pilot/
    <hr></hr>
 
