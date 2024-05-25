@@ -1,13 +1,10 @@
 # Abtract
-TODO
+The purpose of this study is to create a citation index that includes typed citations where a peer review (citing entity) reviews a publication (cited entity) following the OpenCitations Data Model (OCDM).
 
-Purpose: This study examines the feasibility of:
-- creating a new citation index that includes peer review interactions with publication.
-- The necessary transformation of the Crossref dump to create an index compliant with the OCDM.
-- To find out what are the venues with the highest number of peer reviews received, how many peer reviews present in Crossref are also included in OpenCitations Meta, and how many articles reviewed by a peer review are included in OpenCitations Meta.
+The study involves analyzing and manipulating the 2023 Crossref data dump. Crossref is a non-profit organization that facilitates the exchange of scholarly metadata. The outcome of the study is the development of a software capable of extracting typed entities identified as peer reviews from Crossref dataset and integrating additional information about the reviewed entities from the same dataset. This software generates CSVs and a Turtle file that conform to the OCDM.
 
-Study design/methodology/approach: Analyzing the Crossref dataset, we explore how to integrate peer review interactions into citation indices while ensuring compatibility with the OpenCitations Data Model.
+Based on PROCI results, it is determined that the journal receiving the highest number of peer reviews is PeerJ. Furthermore, it is found that approximately 5,689 out of 348,463 of Crossref's peer reviews are present in Meta (1.6\% ), while 70,260 are the Publications in Meta over the 77,660 found in Crossref ( 90,5\%).
 
-Findings: To the moment we don't have any relevant findings (other than the consideration that each member of the group has written in his/her personal notebok which may be considered more of intuitions untill further analysis) being that the project has just started, we expect complexities involved in incorporating peer review data into citation indices, necessitating careful schema adjustments.
+This study enhances scholarly metadata and deepens the understanding of research impact by proposing a novel citation index that captures peer review interactions.
 
-Originality/value: This study contributes to improving scholarly metadata and understanding research impact by proposing a novel citation index that captures peer review interactions.
+This study was run strictly following Open Science principles, and, as such, our research outcomes are fully reproducible..
