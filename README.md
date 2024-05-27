@@ -214,6 +214,11 @@ This space contains all the material related to the [Open Science course](https:
     <hr></hr>
 
 11. [27 May 2024, 10:00-13:00] Workshop
+    * 10:00-10:15: welcoming and instructions
+    * 10:15-10:30: presentation of the invited experts
+    * 10:30-11:30: project presentation by [Harkonnen](https://github.com/open-sci/2023-2024/blob/main/docs/Harkonnen/material.md)
+    * 11:30-11:45: break
+    * 11:45-12:45: project presentation by [Atreides](https://github.com/open-sci/2023-2024/blob/main/docs/Atreides/material.md)
 
 ### Extras
 
