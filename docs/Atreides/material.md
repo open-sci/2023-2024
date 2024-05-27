@@ -63,4 +63,4 @@ Zilli, L., Andreose, E., & Di Marzo, S. (2024). Exploring the coverage of IRIS i
 
 
 ### Slides supporting the presentation
-<<Bibliographic reference in APA style of the last version>>
+Zilli, L., Andreose, E., & Di Marzo, S. (2024, maggio 27). Exploring the coverage of IRIS in OpenCitations Meta and Index - Presentation. Zenodo. https://doi.org/10.5281/zenodo.11344992
