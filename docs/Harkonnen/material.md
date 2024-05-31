@@ -44,7 +44,7 @@ Authors' response to the reviews:
 
 
 ### Protocol introducing the methodology
-Chiara Parravicini, Daniele Spedicati, Matteo Guenci, Nicole Liggeri. Protocol PROCI V.3 , dx.doi.org/10.17504/protocols.io.261ge56qwg47/v3
+Chiara Parravicini, Daniele Spedicati, Matteo Guenci, Nicole Liggeri. Protocol PROCI V.3 , doi: dx.doi.org/10.17504/protocols.io.261ge56qwg47/v3
 
 Bibliographic reference in APA style of the last version
 
@@ -68,8 +68,8 @@ PRoci RDF: Guenci, M., Liggeri, N., Parravicini, C., & Spedicati, D. (2024). PRO
 
 
 ### Article presenting the research
-Guenci, M., Liggeri, N., Parravicini, C., & Spedicati, D. (2024). PROCI Peer Review OpenCitations Index: a methodology. Zenodo. https://doi.org/10.5281/zenodo.11306904
+Guenci, M., Liggeri, N., Parravicini, C., & Spedicati, D. (2024). PROCI Peer Review OpenCitations Index: a methodology. Zenodo. https://doi.org/10.5281/zenodo.11401634
 
 
 ### Slides supporting the presentation
-Bibliographic reference in APA style of the last version
+Bibliographic reference in APA style of the last version. Zenodo https://doi.org/10.5281/zenodo.11349310
