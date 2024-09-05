@@ -53,10 +53,10 @@ Authors' response to the reviews:
 Leonardo Zilli, Erica, A., & Di Marzo, S. (2024). Open Science Atreides research software: First Version 2023-2024-atreides-code (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.11262417
 
 ### The data gathered while running the methodology
-Zilli, L., Andreose, E., Di Marzo, S. (2024). Iris in Meta. figshare. Dataset. https://doi.org/10.6084/m9.figshare.25879420.v1
-Zilli, L., Andreose, E., Di Marzo, S. (2024). Iris in Index. figshare. Dataset. https://doi.org/10.6084/m9.figshare.25879441.v1
-Zilli, L., Andreose, E., Di Marzo, S. (2024). Iris Not In Meta. figshare. Dataset. https://doi.org/10.6084/m9.figshare.25897708.v1
-Zilli, L., Andreose, E., Di Marzo, S. (2024). Iris No ID. figshare. Dataset. https://doi.org/10.6084/m9.figshare.25897759.v1
+Zilli, L., Andreose, E., Di Marzo, S. (2024). Iris in Meta. figshare. Dataset. https://doi.org/10.6084/m9.figshare.25879420.v1<lb>
+Zilli, L., Andreose, E., Di Marzo, S. (2024). Iris in Index. figshare. Dataset. https://doi.org/10.6084/m9.figshare.25879441.v1<lb>
+Zilli, L., Andreose, E., Di Marzo, S. (2024). Iris Not In Meta. figshare. Dataset. https://doi.org/10.6084/m9.figshare.25897708.v1<lb>
+Zilli, L., Andreose, E., Di Marzo, S. (2024). Iris No ID. figshare. Dataset. https://doi.org/10.6084/m9.figshare.25897759.v1<lb>
 
 ### Article presenting the research
 Zilli, L., Andreose, E., & Di Marzo, S. (2024). Exploring the coverage of IRIS inside OpenCitations Meta and Index. Zenodo. https://doi.org/10.5281/zenodo.11303567 
