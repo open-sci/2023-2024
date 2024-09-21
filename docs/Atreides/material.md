@@ -39,7 +39,8 @@ Authors' response to the reviews:
 
 
 ### Protocol introducing the methodology
-Andreose, E., Di Marzo, S., & Zilli, L. (2024). IRIS Software Protocol V.4 (Version 4). dx.doi.org/10.17504/protocols.io.3byl497wjgo5/v4
+Leonardo Zilli, Erica Andreose, Salvatore Di Marzo 2024. Exploring the Coverage of the Scientific Production of the University of Bologna in OpenCitations. protocols.io
+https://dx.doi.org/10.17504/protocols.io.3byl497wjgo5/v5
 
 Reviews of the [IRIS Software Protocol V.1](dx.doi.org/10.17504/protocols.io.3byl497wjgo5/v1):
 * Guenci M. (2024). Review of: "IRIS Software Protocol v1". Qeios. (https://doi.org/10.32388/PSHNEC)
