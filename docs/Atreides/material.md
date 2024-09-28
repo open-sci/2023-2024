@@ -51,7 +51,7 @@ Authors' response to the reviews:
 
 
 ### Software developed
-Leonardo Zilli, Erica, A., & Di Marzo, S. (2024). Open Science Atreides research software: First Version 2023-2024-atreides-code (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.11262416
+Leonardo Zilli, Erica, A., & Di Marzo, S. (2024). open-sci/2023-2024-atreides-code: v3.0.0 (v3.0.0). Zenodo. https://doi.org/10.5281/zenodo.11262416
 
 ### The data gathered while running the methodology
 Zilli, L., Andreose, E., Di Marzo, S. (2024). Iris in Meta. figshare. Dataset. https://doi.org/10.6084/m9.figshare.25879420.v2<br>
