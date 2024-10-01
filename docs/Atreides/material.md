@@ -28,7 +28,7 @@
 ## Material
 
 ### Data Management Plan
-Andreose, E., Di Marzo, S., & Zilli, L. (2024). Data Management plan of the Open Science Project of team Atreides for the Open Science course 2023-2024. Zenodo. https://doi.org/10.5281/zenodo.11297477
+Andreose, E., Di Marzo, S., & Zilli, L. (2024). Data Management plan of the Open Science Project of team Atreides for the Open Science course 2023-2024. Zenodo. https://doi.org/10.5281/zenodo.13865623
 
 Reviews of the [Open Science Project DMP (Versione 0)](https://doi.org/10.5281/zenodo.10898482):
 * Liggeri L. (2024). Review of: "Open Science Project DMP". Qeios. (https://doi.org/10.32388/U63N7W)
