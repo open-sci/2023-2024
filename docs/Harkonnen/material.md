@@ -33,7 +33,7 @@ Validation - Verification of the general reproducibility of the project.
 ## Material
 
 ### Data Management Plan
-Guenci, M., Spedicati, D., Liggeri, N., & Parravicini, C. (2024). Revised version of DMP for the Open Science Project 2023/24 - Team Harkonnen (Versione 3). Zenodo. https://doi.org/10.5281/zenodo.11305414
+Guenci, M., Spedicati, D., Liggeri, N., & Parravicini, C. (2024). Revised version of DMP for the Open Science Project 2023/24 - Team Harkonnen (Versione 3). Zenodo. https://doi.org/10.5281/zenodo.14278321
 
 Reviews of the [initial version of the DMP](https://doi.org/10.5281/zenodo.10950753):
 * Andreose, E., (2024). Review of: "DMP for the Open Science Project 2023/24 - Team Harkonnen". Qeios. https://doi.org/10.32388/6KC2WS.
