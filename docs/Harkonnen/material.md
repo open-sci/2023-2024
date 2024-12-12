@@ -68,7 +68,7 @@ PRoci RDF: Guenci, M., Liggeri, N., Parravicini, C., & Spedicati, D. (2024). PRO
 
 
 ### Article presenting the research
-Guenci, M., Liggeri, N., Parravicini, C., & Spedicati, D. (2024). PROCI Peer Review OpenCitations Index: a methodology. Zenodo. https://doi.org/10.5281/zenodo.11401634
+Guenci, M., Liggeri, N., Parravicini, C., & Spedicati, D. (2024). PROCI Peer Review OpenCitations Index: a methodology. Zenodo. https://doi.org/10.5281/zenodo.14418443
 
 
 ### Slides supporting the presentation
