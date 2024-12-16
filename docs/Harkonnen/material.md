@@ -44,7 +44,7 @@ Authors' response to the reviews:
 
 
 ### Protocol introducing the methodology
-Chiara Parravicini, Daniele Spedicati, Matteo Guenci, Nicole Liggeri. Protocol PROCI V.3 , doi: dx.doi.org/10.17504/protocols.io.261ge56qwg47/v3
+Chiara Parravicini, Daniele Spedicati, Matteo Guenci, Nicole Liggeri. Protocol PROCI V.3 , doi: dx.doi.org/10.17504/protocols.io.261ge56qwg47/v4
 
 Bibliographic reference in APA style of the last version
 
