@@ -44,9 +44,8 @@ Authors' response to the reviews:
 
 
 ### Protocol introducing the methodology
-Chiara Parravicini, Daniele Spedicati, Matteo Guenci, Nicole Liggeri. Protocol PROCI V.3 , doi: dx.doi.org/10.17504/protocols.io.261ge56qwg47/v4
-
-Bibliographic reference in APA style of the last version
+Chiara Parravicini, Daniele Spedicati, Matteo Guenci, Nicole Liggeri 2024. Protocol PROCI: A methodology for creating the Peer Review OpenCitations Index. protocols.io
+https://dx.doi.org/10.17504/protocols.io.261ge56qwg47/v4
 
 Reviews of the [initial version of the protocol](https://doi.org/10.17504/protocols.io.261ge56qwg47/v1):
 * Di Marzo, S., (2024). Review of: "Protocol OCPRIP". Qeios. https://doi.org/10.32388/KMLZ4H.
@@ -60,12 +59,11 @@ Guenci, M., Liggeri, N., Parravici, C., & Spedicati, D. (2024). PROCI software -
 
 
 ### The data gathered while running the methodology
-PROCI Dump: Guenci, M., Nicole, L., Chiara, P., & Spedicati, D. (2024). PROCI Dump [Data set]. Zenodo. https://doi.org/10.5281/zenodo.11307780
+PROCI Dump: Guenci, M., Nicole, L., Chiara, P., & Spedicati, D. (2024). PROCI Dump [Data set]. Zenodo. https://doi.org/10.5281/zenodo.14500990
 
 PROCI Meta Comparison: Guenci, M., Nicole, L., Parravicini, C., & Daniele, S. (2024). PROCI Meta Comparison [Data set]. Zenodo. https://doi.org/10.5281/zenodo.11307883
 
-PRoci RDF: Guenci, M., Liggeri, N., Parravicini, C., & Spedicati, D. (2024). PROCI RDF [Data set]. Zenodo. https://doi.org/10.5281/zenodo.11307968
-
+PROCI RDF: Guenci, M., Liggeri, N., Parravicini, C., & Spedicati, D. (2024). PROCI RDF [Data set]. Zenodo. https://doi.org/10.5281/zenodo.11307968
 
 ### Article presenting the research
 Guenci, M., Liggeri, N., Parravicini, C., & Spedicati, D. (2024). PROCI Peer Review OpenCitations Index: a methodology. Zenodo. https://doi.org/10.5281/zenodo.14418443
